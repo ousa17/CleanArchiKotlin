@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CleanArchi</string>
+    <string name="action_refresh">refresh</string>
+    <string name="failure_network_connection">network connection</string>
+    <string name="failure_server_error">server error</string>
+    <string name="failure_movies_list_unavailable">list unvailable</string>
+    <string name="failure_movie_non_existent">failure</string>
+</resources>
